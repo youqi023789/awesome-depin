@@ -17,7 +17,7 @@ Welcome to our [DePIN (Decentralized Physical Infrastructure Networks)](https://
 
 ### Browser / Bandwidth & Compute
 
-- [LightDAO](https://lightdao.net) — browser-based light-node DePIN on a live Cosmos L1: idle browsers relay bandwidth (WebRTC) and verify block headers to earn LIGHT via Proof-of-Contribution; seedless Passkey wallet; 50% fee burn. [GitHub](https://github.com/youqi023789/lightdao)
+- [Guzir](https://guzir.world) — browser-based light-node DePIN on a live Cosmos L1: idle browsers relay bandwidth (WebRTC) and verify block headers to earn LIGHT via Proof-of-Contribution; seedless Passkey wallet; 50% fee burn. [GitHub](https://github.com/youqi023789/lightdao)
 
 ### Decentralized Wireless
 
